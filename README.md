@@ -1,40 +1,216 @@
-<h1 align="center">Hi 👋, I'm Adarsh Raj</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshraj62011-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshraj62011-lgtm" /> </p>
+# 👋 Hey there, I'm Adarsh Raj
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshraj62011-lgtm" alt="adarshraj62011-lgtm" /></a> </p>
+### 🚀 Software Engineer · Full-Stack Developer · AI Enthusiast
 
-- 🔭 I’m currently working on **InterviewPilot AI – AI Powered Interview Preparation Platform**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full-Stack+Developer+%7C+MERN+Stack;250%2B+LeetCode+Problems+Solved+%F0%9F%92%AA;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing, Docker, System Design**
+[![Profile Views](https://komarev.com/ghpvc/?username=adarshraj62011-lgtm&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/adarshraj62011-lgtm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adarsh-portfolio-alpha.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshraj62011@gmail.com)
 
-- 👯 I’m looking to collaborate on **Open Source Projects, Full Stack Applications, AI/ML Projects**
+</div>
 
-- 🤝 I’m looking for help with **Machine Learning Deployment and Cloud Infrastructure**
+---
 
-- 👨‍💻 All of my projects are available at [https://adarsh-portfolio-alpha.vercel.app](https://adarsh-portfolio-alpha.vercel.app)
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **Java, Python, React.js, Node.js, MongoDB, DSA, REST APIs**
+```yaml
+name       : Adarsh Raj
+degree     : B.Tech CSE @ Parul Institute of Engineering & Technology (2023–2027)
+cgpa       : 7.00 / 10.0
+internship : Full Stack Developer Intern @ Thiranex (Jun–Jul 2026)
+focus      : InterviewPilot AI – AI Powered Interview Prep Platform
+learning   : [Machine Learning, Cloud Computing, Docker, System Design]
+open_to    : [Open Source, Full Stack Projects, AI/ML Projects]
+ask_me     : [Java, Python, React.js, Node.js, MongoDB, DSA, REST APIs]
+fun_fact   : I enjoy building AI-powered apps & solving coding challenges ⚡
+```
 
-- 📫 How to reach me **adarshraj62011@gmail.com**
+---
 
-- ⚡ Fun fact **I enjoy building AI-powered applications and solving coding challenges.**
+## 💼 Work Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarsh-raj-123456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-raj-123456" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh__singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh__singh_rajput" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adarshraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarshraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshraj62011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshraj62011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarshraj" height="30" width="40" /></a>
-</p>
+### 🏢 Full Stack Development Intern — [Thiranex](https://thiranex.com) *(Jun 2026 – Jul 2026 · Remote)*
+- Contributed to full-stack web development projects involving application design, implementation, testing & maintenance.
+- Applied software engineering principles to build scalable and responsive web applications.
+- Utilized **Git & GitHub** for version control, collaboration, and project management.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🎓 Volunteer — Parul University, Vadodara *(Jul 2024 – Oct 2025)*
+- Planned and executed technical & cultural events with effective coordination.
+- Enhanced leadership, communication, and problem-solving through university initiatives.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshraj62011-lgtm&show_icons=true&locale=en&layout=compact" alt="adarshraj62011-lgtm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshraj62011-lgtm&show_icons=true&locale=en" alt="adarshraj62011-lgtm" /></p>
+## 🔥 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshraj62011-lgtm&" alt="adarshraj62011-lgtm" /></p>
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 InterviewPilot AI
+AI-powered mock interview & candidate assessment platform with automated simulations and personalized feedback.
+
+**Tech:** Java · Spring Boot · REST APIs · AI/ML  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/InterviewPilot-AI)
+
+</td>
+<td width="50%">
+
+### 🛍️ FlipShop – MERN E-Commerce Platform
+Full-stack e-commerce platform with JWT auth, product management, shopping cart & order processing.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · JWT  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/todo-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤟 Real-Time Hand Sign Communication
+ML-based sign language recognition system with **90%+ accuracy**, processing video at 30 FPS with sub-200ms latency.
+
+**Tech:** Python · MediaPipe · OpenCV · Flask · pyttsx3  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/Real-Time-Hand-Sign-Communication-System)
+
+</td>
+<td width="50%">
+
+### 🏥 Hospital Management System
+Full-stack hospital platform with role-based dashboards (patient/doctor/admin), appointment booking & data visualization.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · JWT · Chart.js  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/Hospital-Management-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ MERN Todo App
+Feature-rich todo app with auth, calendar, drag & drop, PDF export & reminders.
+
+**Tech:** MongoDB · Express · React · Node.js  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/todo-app)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+Modern responsive portfolio showcasing skills, projects & experience.
+
+**Tech:** React.js · JavaScript · Tailwind CSS  
+[![Live](https://img.shields.io/badge/Live-Visit_Site-00C7B7?style=flat&logo=vercel)](https://adarsh-portfolio-alpha.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/adarshraj62011-lgtm/adarsh-portfolio)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 🎯 Achievements
+- 💻 Solved **250+ coding problems** on LeetCode covering DSA & Problem Solving
+- ⭐ Earned **2-Star rating on CodeChef** through competitive programming contests
+- 🚀 Delivered **5+ full-stack web applications** using React.js, Node.js, Express.js & MongoDB
+- 🏅 Participated in **multiple hackathons & technical competitions**
+
+### 📜 Certifications
+- 🟠 **Oracle Cloud Infrastructure 2025** – Certified AI Foundations Associate
+- 🟣 **Computer Networks** – NPTEL Certification
+- 🟡 **Cloud Computing & AI with AWS**
+- 🔵 **DevOps Meets AI** – AWS Cloud Club
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adarshraj62011-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshraj62011-lgtm&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshraj62011-lgtm&theme=tokyonight&hide_border=true)](https://github.com/adarshraj62011-lgtm)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshraj62011-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-raj-123456)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/adarshraj)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adarshraj62011)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adarshraj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adarsh__singh_rajput)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshraj62011@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building AI solutions, one commit at a time."*
+
+⭐ **If you find my projects useful, consider starring them!**
+
+</div>
